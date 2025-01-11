@@ -1,0 +1,14 @@
+dist/*
+.vscode
+.clang-format
+.clangd
+.editorconfig
+.env
+.ufbt
+.venv/
+old/
+.pio
+include
+lib 
+*.bin
+config.json

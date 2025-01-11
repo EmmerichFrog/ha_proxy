@@ -1,0 +1,5 @@
+{
+    "host": "your_server",
+    "entity_id": "custom_name",
+    "can add as many as needed": "rename file to config.json"
+}
